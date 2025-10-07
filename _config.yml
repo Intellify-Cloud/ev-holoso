@@ -1,9 +1,9 @@
 baseurl: ""
 
-title      : evo Everywhere - Expert in Bond Origination & Home Loans | Durban
-email      : chanelle.macey@evogroup.co.za
-description: Contact Chanelle from evo Everywhere to help you with your home loan. We are experienced property professionals specializing in home loans and property finance. We are passionate about the property industry, focusing on bonds, home loans, and origination. We are committed to excellence and building long-term relationships.
-author     : Pieter Oosthuizen
+title: evo Homeloans Solutions - Expert in Bond Origination & Home Loans | Durban
+email: angela.strydom@evogroup.co.za
+description: Contact Angela from evo Homeloans Solutions to help you with your home loan. We are experienced property professionals specializing in home loans and property finance. We are passionate about the property industry, focusing on bonds, home loans, and origination. We are committed to excellence and building long-term relationships.
+author: Pieter Oosthuizen
 
 analytics:
   google: G-xxx
@@ -20,14 +20,14 @@ webserver_headers:
     - GET, OPTIONS, HEAD
 
 logo:
-  path: /assets/evo-everywhere-logo.png
+  path: /assets/img/logo/evo homeloan solutions logo.png
 
-exclude: [node_modules,webpack-config.js,package.json,package-lock.json]
+exclude: [node_modules, webpack-config.js, package.json, package-lock.json]
 
 group: evo Homeloans
 
-company: evo Everywhere
+company: evo Homeloans Solutions
 
-url: https://evohomeloans.co.za/bond-originators/durban/
+url: https://evohomeloans.co.za/
 
 address: 275 Peter Mokaba Road, Morningside, Durban, 4001

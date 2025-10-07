@@ -11,19 +11,19 @@ services:
         desc: "We submit Home Loan Applications to up to seven banks negotiating the best interest rates and deal in the market at any given time."
         icon: fas fa-home
         link: 
-          url: mailto:chanelle.macey@evogroup.co.za ?subject=Mail from evo Everywhere website
+          url: mailto:angela.strydom@evogroup.co.za ?subject=Mail from evo Homeloans Solutions website
           text: "Email Us"
       - title: "Pre-qualification"
         desc: "We help you check your credit record, income and expenses to give you an accurate assessment of what you can afford. You will then know how likely you are to qualify for a bond."
         icon: fas fa-tasks       
         link:
-          url: tel:+27795620507
-          text: "Call: 079 562 0507"
+          url: tel:+27829787570
+          text: "Call: 082 978 7570"
       - title: "Have Questions?"
         desc: "I'm searching property portals and visiting show houses but have a few questions."
         icon: fas fa-search
         link: 
-          url: mailto:chanelle.macey@evogroup.co.za ?subject=Mail from evo Everywhere website
+          url: mailto:angela.strydom@evogroup.co.za ?subject=Mail from evo Homeloans Solutions website
           text: "Email Us"
 
 articles:
@@ -83,7 +83,7 @@ more-calculators:
           text: "Calculate"
 
 textblock:
-    title: "Why evo Everywhere"
+    title: "Why evo Homeloans Solutions"
     text: "Home loans ....getting your bond approved."
     footer: "Our service is completely FREE, with no obligation."
     section: textblock
@@ -117,16 +117,15 @@ portfolio:
     closebutton: "Close"
     
 about:
-    title: "About Us"
-    text2: "Property runs in my family's veins, with a father who is a property developer and a mom who has been an estate agent for more than 30 years, I have had  exposure to the industry from many perspectives and fully understand the ups & downs of approved and declined bonds.
-    <br><br>
-    Our passion for my work shows in my day-to-day interactions and all of our transactions. 
-    <br><br>
-    We understand the importance of each sale for my buyers and real estate partners.
-    <br><br>
-    We am committed to obtaining the best bond offer no matter the challenge, so feel free to contact us if you need a pre-qualification or a home loan.
-    <br><br>
-    We look forward to helping you!"
+    title: "About Me"
+    text2: "For the past three years, I’ve worked as a Home Loan Consultant, building on my background in insurance and investments to bring clients a complete, well-rounded approach to home financing.
+      <br><br>
+      I’m incredibly passionate about helping my clients achieve their homeownership goals, especially knowing that, for most, this will be their largest and most meaningful investment.
+      <br><br>
+      When I apply on your behalf, I approach multiple banks at once, giving them the chance to compete for your business. This allows us to secure the most competitive interest rate, potentially saving you thousands (or even hundreds of thousands) of rands over the term of your bond.
+      <br><br>
+      At evo, I get to combine my financial expertise, love of working with people, and passion for property to guide clients into homes they truly love.
+      I’d be delighted to connect with you and support you on your homebuying journey."
     
 clients:
     title: Bank Partners
@@ -163,89 +162,27 @@ team:
     section: team
     contact: 
     people:
-      - name: "Chanelle Macey"
+      - name: "Angela Strydom"
         role: "Property Finance Specialist"
-        image: assets/img/team/Chanelle Macey evo Homeloans.jpg
+        image: assets/img/team/Angela Strydom evo Homeloans.jpg
         social:
-          - url: tel:079 562 0507
+          - url: tel:082 978 7570
             icon: fas fa-phone
-          - url: mailto:chanelle.macey@evogroup.co.za?subject=evo Everywhere Website Enquiry
+          - url: mailto:angela.strydom@evogroup.co.za?subject=evo Homeloans Solutions Website Enquiry
             icon: fas fa-envelope
-          - url: https://www.facebook.com/chanellehomeloan
-            icon: fab fa-facebook-f
-          - url: https://za.linkedin.com/in/chanelle-macey-homeloans
-            icon: fab fa-linkedin-in
-
-      - name: "Jacque Calitz"
-        role: "Property Finance Consultant"
-        image: assets/img/team/Jacque Calitz evo Homeloans.jpg
-        social:
-          - url: tel:071 883 3644
-            icon: fas fa-phone
-          - url: mailto:jacque.calitz@evogroup.co.za?subject=evo Everywhere Website Enquiry
-            icon: fas fa-envelope
-          - url: https://www.facebook.com/chanellehomeloan
-            icon: fab fa-facebook-f
-
-      - name: "Kobie Nel"
-        role: "Property Finance Consultant"
-        image: assets/img/team/Kobie Nel -  evo Homeloans.jpg
-        social:
-          - url: tel:071 276 4847
-            icon: fas fa-phone
-          - url: mailto:kobie.nel@evogroup.co.za?subject=evo Everywhere Website Enquiry
-            icon: fas fa-envelope
-          - url: https://www.facebook.com/chanellehomeloan
-            icon: fab fa-facebook-f
-
-      - name: "Paul Weaver"
-        role: "Property Finance Consultant"
-        image: assets/img/team/Paul Weaver evo Homeloans.jpg
-        social:
-          - url: tel:083 662 2921
-            icon: fas fa-phone
-          - url: mailto:paul.weaver@evogroup.co.za?subject=evo Everywhere Website Enquiry
-            icon: fas fa-envelope
-
-      - name: "Zelda Weaver"
-        role: "Property Finance Specialist"
-        image: assets/img/team/Zelda Weaver evo Homeloans.jpg
-        social:
-          - url: tel:082 414 1865
-            icon: fas fa-phone
-          - url: mailto:zelda.weaver@evogroup.co.za?subject=evo Everywhere Website Enquiry
-            icon: fas fa-envelope
-          - url: https://www.facebook.com/Evo.ZeldaWeaverEverywhere?mibextid=ZbWKwL
-            icon: fab fa-facebook-f
-
+          #- url: https://www.facebook.com/Angelahomeloan
+          #  icon: fab fa-facebook-f
+          #- url: https://za.linkedin.com/in/Angela-macey-homeloans
+          #  icon: fab fa-linkedin-in0
  
 testimonials:
     title: "Testimonials"
     text: "What Others Say About Us"
     section: testimonials
     people:
-      - name: "Leandre Van Rooyen"
-        testimony: "Working with Chanelle has been an absolute pleasure!"
-
-      - name: "Gareth"
-        testimony: "Chanelle is a Rockstar! Amazing service and delivery. I will definitely be referring her to friends looking to secure bonds."
-
-      - name: "Grace C."
-        testimony: "Thank you so so much, couldn’t have done it without you. You went far and beyond, against all odds and still succeeded ❤️ It’s not an understatement that you’re great at what you do!"
-
-      - name: "Christopher Perumall"
-        testimony: "Hi Chanelle..thank you for being there for us. Thank you for going the extra mile for us and going out of your way to make things happen. Thank you for being patient with us and making the bond possible. Thank you for putting such an extra effort in to accomplish our bond. We really appreciate you. Thank you kindly."
-
-      - name: "Leendert & Rachelle Roos"
-        testimony: "Hi Chanelle, first of all, I want to thank you for always being friendly and helpful....... Clearly with each phone call the smile was there and I believe that is what kept us positive during our whole deal. You are a go-getter and nothing will stand in your way to help your clients. We truly admire your good service, warm personality, and great efforts with every step to finalize our bond finance. Keep up the stunning work!"
-
-      - name: "Dr. Frank ☆☆☆☆☆"
-        testimony: "I would love to thank you for your dedication and hard work. What seemed like an impossible venture and receiving rejection after rejection from previous consultants, phone call after phone call, you were able to make it happen and I can finally say I have my dream property! Thank you very much! I will definitely recommend you to all the people who ever need your services. Very professional and honest. I thank you."  
-      
-
-
-
-
+      - name: ""
+        testimony: ""
+ 
 contact:
     title: "Contact Us"
     text: ""
@@ -254,13 +191,13 @@ contact:
 footer:
     legal: "Powered by evo Homeloans"
     social:
-      - url: https://twitter.com/chanelle_macey
-        icon: "fab fa-twitter"  
-      - url: https://www.facebook.com/chanellehomeloan
-        icon: "fab fa-facebook-f"
-      - url: https://za.linkedin.com/in/chanelle-macey-homeloans
-        icon: "fab fa-linkedin-in"
-      - url: https://api.whatsapp.com/send?phone=27795620507
+      #- url: https://twitter.com/Angela_macey
+      #  icon: "fab fa-twitter"  
+      #- url: https://www.facebook.com/Angelahomeloan
+      #  icon: "fab fa-facebook-f"
+      #- url: https://za.linkedin.com/in/Angela-macey-homeloans
+      #  icon: "fab fa-linkedin-in"
+      - url: https://api.whatsapp.com/send?phone=27829787570
         icon: "fab fa-whatsapp"
       # - url: https://instagram.com
       #   icon: "fab fa-instagram"
