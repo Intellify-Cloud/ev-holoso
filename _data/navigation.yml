@@ -8,6 +8,9 @@ nav:
   - title: "Team"
     section: team
 
+  - title: "About"
+    section: about
+
   - title: "Calculators"
     section: calculators
 
